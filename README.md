@@ -1,4 +1,4 @@
-# Projeto CArtAgO: Mundo do Aspirador de Pó
+# Projeto JaCaMo: Mundo do Aspirador de Pó
 
 Este projeto foi desenvolvido como parte de uma série de exercícios utilizando a plataforma **CArtAgO**, focando na criação de agentes e ambientes de simulação. O objetivo principal é explorar diferentes técnicas de coordenação entre agentes e controle de ambientes, em um mundo de salas em que os agentes são responsáveis por "aspirar" ou limpar as salas.
 
