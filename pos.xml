@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>cartago</groupId>
+    <artifactId>cartago-core</artifactId>
+    <version>VERSÃO_ATUAL</version>
+</dependency>

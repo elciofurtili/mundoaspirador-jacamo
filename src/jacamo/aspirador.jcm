@@ -1,0 +1,5 @@
+mas mas {
+    agents: aspirador1, aspirador2, aspirador31, aspirador32, aspirador41, aspirador42, aspirador51, aspirador52;
+    environment: env.Ambiente1, env.Ambiente2, env.Ambiente3, , env.Ambiente4, , env.Ambiente5;
+    artifacts: Ambiente;
+}
