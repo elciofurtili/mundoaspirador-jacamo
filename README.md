@@ -50,15 +50,18 @@ Modificamos o ambiente para ser uma matriz bidimensional (5x6) de salas, algumas
 Os arquivos para essa atividade são:
 - aspirador41.asl
 - aspirador42.asl
-- Ambiente4.java```
+- Ambiente4.jav
+```
 
 5. Exercício 5: Agentes Exploradores e Limpadores
 No quinto exercício, criamos dois tipos de agentes: o agente explorador, que busca por lixo no ambiente, e o agente limpador, que limpa o lixo encontrado. A comunicação entre os agentes é feita para que eles compartilhem informações sobre os locais em que encontram lixo, permitindo uma execução coordenada das tarefas de limpeza.
 
-```Os arquivos para essa atividade são:
+```
+Os arquivos para essa atividade são:
 - aspirador51.asl
 - aspirador52.asl
-- Ambiente5.java```
+- Ambiente5.java
+```
 
 ## Tecnologias Utilizadas
 
